@@ -9,7 +9,6 @@ from collections import OrderedDict
 from io import BytesIO
 from utils.network import U2NET
 
-# Load model once when the module is imported
 model = U2NET(in_ch=3, out_ch=4)
 state_dict = torch.load(".\models\cloth_segm.pth", map_location="cpu")
 clean_state_dict = OrderedDict((k.replace("module.", ""), v) for k, v in state_dict.items())

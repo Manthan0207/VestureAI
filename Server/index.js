@@ -29,9 +29,9 @@ app.use("/api/seller", sellerRoutes)
 app.use("/api/product", productRoutes)
 // app.use("api/user-details", userRouter)
 
-app.listen(PORT, () => {
+app.listen(3000, () => {
     connectDB()
-    console.log(`Server running on ${PORT}`);
+    console.log(`Server running on ${3000}`);
 
 })
 

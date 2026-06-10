@@ -1,3 +1,0 @@
-sorting and filtering in the seller sales page;
-
-also change all the alerts to the toast
