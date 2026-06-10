@@ -117,6 +117,18 @@ To get a local copy up and running, follow these simple steps.
     npm start
     ```
 
+### Model Weights Notice
+
+The trained model weights used by the AI components of this project are not included in this repository.
+
+These model files have been intentionally excluded from version control. As a result, features such as Virtual Try-On and certain AI-powered recommendations cannot be executed directly from a cloned copy of the repository without the corresponding model weights.
+
+The complete source code, application architecture, API implementation, and integration logic are available for review.
+
+If access to the model weights is required for evaluation, research, or demonstration purposes, please contact me at:
+
+📧 **manthanpanseriya0205@gmail.com**
+
 3.  **Setup the AI Service (FastAPI)**
     ```sh
     cd ML-API
