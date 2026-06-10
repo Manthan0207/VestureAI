@@ -172,5 +172,3 @@ If access to the model weights is required for evaluation, research, or demonstr
 ## 📬 Contact
 
 Manthan Panseriya - [LinkedIn](https://www.linkedin.com/in/manthan-panseriya-237739338/) - manthanpanseriya0205@gmail.com
-
-Project Link: [https://github.com/Manthan0207/VestureAI](https://github.com/Manthan0207/VestureAI)
